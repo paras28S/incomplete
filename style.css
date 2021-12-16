@@ -1,0 +1,85 @@
+#header {
+    text-align: center;
+    font-size: 24px;
+    color: lime;
+    background-color: red;
+    padding: 10px;
+}
+
+#info {
+    text-align: center;
+    color: purple;
+    font-size: 20px;
+    margin: 3px;
+}
+
+#type {
+    padding: 4px 20px;
+    display: block;
+}
+
+#typeofforest {
+    padding: 4px 20;
+    display: block;
+}
+
+#typeofgrassland {
+    padding: 4px 20px;
+}
+
+#pic1 {
+    width: 300px;
+    height: 200px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#pic2 {
+    width: 300px;
+    height: 200px;
+}
+
+#pic3 {
+    width: 300px;
+    height: 200px;
+}
+
+#pic4 {
+    width: 300px;
+    height: 200px;
+}
+
+#pic5 {
+    width: 300px;
+    height: 200px;
+}
+
+#pic6 {
+    width: 300px;
+    height: 200px;
+}
+
+#pic7 {
+    width: 300px;
+    height: 200px;
+}
+
+#pic8 {
+    width: 300px;
+    height: 200px;
+}
+
+#pic9 {
+    width: 300px;
+    height: 200px;
+}
+
+#pic10 {
+    width: 300px;
+    height: 200px;
+}
+
+#pic11 {
+    width: 300px;
+    height: 200px;
+}
